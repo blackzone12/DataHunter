@@ -1,0 +1,10 @@
+requests
+phonenumbers
+beautifulsoup4
+lxml
+rich
+pyfiglet
+geopy
+folium
+streamlit
+python-dotenv
