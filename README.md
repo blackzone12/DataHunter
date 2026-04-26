@@ -110,3 +110,5 @@ DataHunter/
 
 ## ⚠️ Disclaimer
 This tool is for authorized security research and educational purposes only. Users are responsible for complying with local laws and platform Terms of Service.
+
+"Created by Black Zone"
